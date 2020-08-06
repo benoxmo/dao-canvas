@@ -2,13 +2,19 @@
 
 > All things DAO canvas!
 
+<br>
+
 ## Motivation
 
 Summoning a DAO is a lot like starting a business or creating a legal entity. This is because many of the questions are universal to human coordination in general. This repo aims to aggregate resources that help with that process!
 
+<br>
+
 ## The Original DAO Canvas
 
 Felipe Duarte created the original [DAOstack DAO Canvas](https://daocanvas.webflow.io/). It's great. We highly recommend checking it out!
+
+<br>
 
 ## Simple DAO Canvas
 
