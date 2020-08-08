@@ -1,3 +1,5 @@
+![DAO Canvas](https://assets.website-files.com/5d97712f89c88cf0b1ce97bd/5d985cf16e7b483df801f781_daocanvas%20render%20copy-p-500.png)
+
 # Dao Canvas
 
 > All things DAO canvas!
