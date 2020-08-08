@@ -10,6 +10,8 @@ Summoning a DAO is a lot like starting a business or creating a legal entity. Th
 
 <br>
 
+## The DAO Canvas
+
 ### The Original DAO Canvas
 
 Felipe Duarte created the original [DAOstack DAO Canvas](https://daocanvas.webflow.io/). It's great. We highly recommend checking it out!
